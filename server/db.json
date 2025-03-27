@@ -1,0 +1,38 @@
+[
+  {
+    "color": "#F0D1A8",
+    "id": "1c389a31-c32b-4a89-a797-0118e0b621f1",
+    "taskName": "task 1",
+    "taskDetail": "This task involves setting up the development environment.",
+    "startDate": "2025-03-26",
+    "endDate": "2025-04-27",
+    "status": "open"
+  },
+  {
+    "color": "#F0D1A8",
+    "id": "02955460-232c-490f-8b4c-515b2b4501e3",
+    "taskName": "tache 2",
+    "taskDetail": "Designing the wireframes for the project.",
+    "startDate": "2025-03-27",
+    "endDate": "2025-04-27",
+    "status": "complete"
+  },
+  {
+    "color": "#F0D1A8",
+    "id": "2f700614-9ad3-48a4-b2b1-8afc54b8afef",
+    "taskName": "task 3",
+    "taskDetail": "This task involves setting up the development enviro",
+    "startDate": "2025-03-27",
+    "endDate": "2025-04-27",
+    "status": "open"
+  },
+  {
+    "color": "#F0D1A8",
+    "id": "7d1b7c8f-ec64-439a-b85d-07e4a1c019c5",
+    "taskName": "task 7",
+    "taskDetail": "This task involves setting up the development",
+    "startDate": "2025-03-27",
+    "endDate": "2025-04-27",
+    "status": "pending"
+  }
+]
